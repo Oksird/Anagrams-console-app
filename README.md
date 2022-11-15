@@ -1,4 +1,7 @@
-# Task1
+# CleanCode
+
+## Anagrams
+
 Application that reverses all the words of input text
 
 Each word in the text will be reversed:
@@ -11,5 +14,13 @@ Use only the Latin alphabet.
 
 Start application with ua.foxminded.anagrams.AnagramConsoleApplication class using main method.
 
-Use ua.foxminded.anagrams.AnagramProvider's method createAnagram(String inputString) or createAnagram() to 
-type string in console by yourself
+Use ua.foxminded.anagrams.AnagramProvider's method createAnagram(String inputString)
+
+## Integer Division
+
+Integer-division application that divides numbers and prints results into the console. 
+Format of printing is "long division"
+
+Start application with ua.foxminded.integer_division.IntegerDivisionConsoleApplication class using main method.
+
+Use ua.foxminded.integer_division.DivisionMaker's method makeDivision(int dividend, int divisor)
